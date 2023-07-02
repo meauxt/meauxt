@@ -16,9 +16,9 @@
 
 - 📄 my resume can be found [resume](resume)
 
-- 🖥 my personal PC running **Arch with Hyperland**
+- 🖥 my personal PC is running **Arch with Hyperland**
 
-- 💽 I selfhost my own **Bitwarden, Wallabag, Nextcloud, Photoprism, Gitea, Simple-login, Jellyfin**
+- 💽 I self-host my own **Bitwarden, Wallabag, Nextcloud, Photoprism, Gitea, Simple-login, Jellyfin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
