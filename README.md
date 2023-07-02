@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamad Tarbin</h1>
-<h3 align="center">I am Software Engineer working in the information technology and services industry. Skilled in Java , Python and Machine Learning. with interests in Internet of Things tiny hardware projects and self hosting</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meauxt&label=Profile%20views&color=0e75b6&style=flat" alt="meauxt" /> </p>
+<h3 align="center">I am Software Engineer working in the information technology and services industry. Skilled in Java, Python, and Machine Learning. with interests in Internet of Things tiny hardware projects and self hosting</h3>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=meauxt&label=Profile%20views&color=0e75b6&style=flat" alt="meauxt" /> </p> -->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meauxt" alt="meauxt" /></a> </p>-->
 
-- 👨‍💻 been working on **Large Distributes Systems, Real-time Processing, Low-Latency High-throughput**
+- 👨‍💻 been working on **Large Distributed Systems, Real-time Processing, Low-Latency High-throughput**
 
 - 🌱 currently learning **Golang**
 
