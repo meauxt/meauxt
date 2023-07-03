@@ -18,7 +18,8 @@
 
 - 🖥 my personal PC is running **Arch with Hyperland**
 
-- 💽 I self-host my own **Bitwarden, Wallabag, Nextcloud, Photoprism, Gitea, Simple-login, Jellyfin**
+- 💽 things I self-host my own **Bitwarden, Wallabag, Nextcloud, Photoprism, Gitea, Simple-login, Jellyfin, AdGuard, Nginx, MariaDB, Grocy, Chrony, Uptime Kuma, Homeassistant, Frigate**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
