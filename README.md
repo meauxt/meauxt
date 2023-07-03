@@ -18,7 +18,99 @@
 
 - 🖥 my personal PC is running **Arch with Hyperland**
 
-- 💽 things I self-host my own **Bitwarden, Wallabag, Nextcloud, Photoprism, Gitea, Simple-login, Jellyfin, AdGuard, Nginx, MariaDB, Grocy, Chrony, Uptime Kuma, Homeassistant, Frigate**
+<h3 align="left">Things I selfhost and love ❤️ </h3>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Starts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AdGuard</td>
+      <td>Network-wide ad blocking</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/adguardteam/adguardhome?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Bitwarden</td>
+      <td>Password manager</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/bitwarden/server?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Chrony</td>
+      <td>Network time synchronization</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mlichvar/chrony?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Frigate</td>
+      <td>Privacy-focused video surveillance software</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/blakeblackshear/frigate?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Gitea</td>
+      <td>Git hosting service</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/go-gitea/gitea?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Grocy</td>
+      <td>Home management system for groceries and household items</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grocy/grocy?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Homeassistant</td>
+      <td>Open-source home automation platform</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/home-assistant/core?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Jellyfin</td>
+      <td>Media server for personal entertainment</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jellyfin/jellyfin?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>MariaDB</td>
+      <td>Database management system</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mariadb/server?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Nextcloud</td>
+      <td>Personal cloud storage and collaboration platform</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nextcloud/server?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Nginx</td>
+      <td>Web server and reverse proxy</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nginx/nginx?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Photoprism</td>
+      <td>Photo management software</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/photoprism/photoprism?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Simple-login</td>
+      <td>Email alias and forwarding service</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/simple-login/app?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Uptime Kuma</td>
+      <td>Server and website uptime monitoring</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Wallabag</td>
+      <td>Self-hosted read-it-later service</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/wallabag/wallabag?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
