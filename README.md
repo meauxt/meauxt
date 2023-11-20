@@ -96,6 +96,11 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/photoprism/photoprism?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td>Plausible</td>
+      <td>Analytics with privacy respected is priority</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/plausible/analytics?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td>Simple-login</td>
       <td>Email alias and forwarding service</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/simple-login/app?style=flat-square&labelColor=343b41"/></td>
