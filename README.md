@@ -97,7 +97,7 @@
     </tr>
     <tr>
       <td>Plausible</td>
-      <td>Analytics with privacy respected is priority</td>
+      <td>Analytics with Privacy is main Focused</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/plausible/analytics?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
