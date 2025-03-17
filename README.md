@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamad Tarbin</h1>
-<h3 align="center">I am Software Engineer working in the information technology and services industry. I am Software Engineer working in the information technology and services industry. enthusiast about tiny hardware projects, Machine Learning, Internet of Things, and actively contribute to Opensource initiatives, I love self-hosting systems both in my home lab and the cloud.</h3>
+<h3 align="center">I'm a Software Engineer who enjoys solving complex problems and tinkering with electronics. By day, I design and build robust, scalable distributed systems. By night, I'm passionate about IoT and hardware projects, experimenting with Machine Learning, and contributing to open-source initiatives. I also enjoy self-hosting systems in my home lab and the cloud</h3>
+
+
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=meauxt&label=Profile%20views&color=0e75b6&style=flat" alt="meauxt" /> </p> -->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meauxt" alt="meauxt" /></a> </p>-->
 
 - 👨‍💻 been working on **Large Distributed Systems, Real-time Processing, Low-Latency High-throughput**
-
-- 🌱 currently learning **Golang**
 
 - ❤️ tinkering with **Microcontroller(ESPs and Arduino)**
 
@@ -44,6 +45,11 @@
       <td>Chrony</td>
       <td>Network time synchronization</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mlichvar/chrony?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Donetick</td>
+      <td>Task and Chore managment</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/donetick/donetick?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td>Frigate</td>
@@ -89,6 +95,11 @@
       <td>Nginx</td>
       <td>Web server and reverse proxy</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nginx/nginx?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>Paperless</td>
+      <td>Document management system full of features</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td>Photoprism</td>
